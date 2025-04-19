@@ -1,1 +1,15 @@
+Original Name,Icon Path
 
+TOWN CATEGORIES,-
+townsfolk miscellaneous,Townsfolk/Miscellaneous/Civilian
+townsfolk investigative,Townsfolk/Investigative/Cop
+townsfolk killing,Townsfolk/Killing/Vigilante
+townsfolk power,Townsfolk/Power/Doctor
+
+MAFIA CATEGORIES,-
+mafia miscellaneous,Mafia/Miscellaneous/Mafioso
+mafia power,Mafia/Power/Framer
+
+NEUTRAL CATEGORIES,-
+neutral miscellaneous,Neutral/Miscellaneous/Fool
+neutral killing,Neutral/Killing/Bomber
