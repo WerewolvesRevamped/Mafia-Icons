@@ -20,3 +20,7 @@ mafia,Placeholder/Mafia
 LOCATIONS,-
 town square,Placeholder/Neutral
 voting booth,Placeholder/Neutral
+
+PHASES,-
+day,Placeholder/Neutral
+night,Placeholder/Neutral
