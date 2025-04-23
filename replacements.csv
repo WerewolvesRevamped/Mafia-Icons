@@ -13,3 +13,10 @@ mafia power,Mafia/Power/Framer
 NEUTRAL CATEGORIES,-
 neutral miscellaneous,Neutral/Miscellaneous/Fool
 neutral killing,Neutral/Killing/Bomber
+
+GROUPS,-
+mafia,Placeholder/Mafia
+
+LOCATIONS,-
+town square,Placeholder/Neutral
+voting booth,Placeholder/Neutral
