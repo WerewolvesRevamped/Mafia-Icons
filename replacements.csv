@@ -18,9 +18,14 @@ GROUPS,-
 mafia,Placeholder/Mafia
 
 LOCATIONS,-
-town square,Placeholder/Neutral
-voting booth,Placeholder/Neutral
+town square,Extras/Town Square
+voting booth,Extras/Voting Booth
 
 PHASES,-
-day,Placeholder/Neutral
-night,Placeholder/Neutral
+day,Extras/Day
+night,Extras/Night
+
+ABILITY TYPES,-
+killing,Extras/Killing
+investigations,Extras/Investigation
+obstructions,Extras/Role Blocking
